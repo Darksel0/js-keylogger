@@ -1,4 +1,4 @@
-// coded by arksel0  ....2024
+// coded by darksel0  ....2024
 //https://github.com/Darksel0
 //hackforums.net username:darkosel
 var fso = new ActiveXObject("Scripting.FileSystemObject");
